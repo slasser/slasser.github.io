@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![photo](lasser_photo.png =100x20)
+![photo](lasser_photo.png)
 
 I am a PhD student in computer science at Tufts University, where I am advised
 by Dr. Kathleen Fisher. My research interests are in programming languages and formal
