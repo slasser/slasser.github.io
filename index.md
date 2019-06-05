@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="lasser_photo.png" width=50% height=50%/>
+<img src="lasser_photo.png" width=20% height=20%/>
 
 I am a PhD student in computer science at Tufts University, where I am advised
 by Dr. Kathleen Fisher. My research interests are in programming languages and formal
