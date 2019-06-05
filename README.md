@@ -1,2 +1,1 @@
-# slasser.github.io
-personal website
+# Personal Website
