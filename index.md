@@ -7,7 +7,7 @@ layout: default
 ## About
 I am a PhD student in computer science at Tufts University, where I am advised
 by Dr. Kathleen Fisher. My research interests are in programming languages and 
-formal verification. My current research involves using interactive theorem proving 
+formal methods. My current research involves using interactive theorem proving 
 tools to verify parser generators and other components of PL and data-processing 
 infrastructure.
 
