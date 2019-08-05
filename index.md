@@ -16,7 +16,7 @@ programming, and cybersecurity.
 ## Publications
 Sam Lasser, Chris Casinghino, Kathleen Fisher, and Cody Roux. 
 "A Verified LL(1) Parser Generator." 
-To appear at Interactive Theorem Proving (ITP) 2019.
+To appear at Interactive Theorem Proving (ITP) 2019. [PDF](./publications/ITP2019.pdf)
 
 Terry Patten, Catherine Call, Dan Mitchell, Jason Taylor, and Sam Lasser.
 “Defining the Malice Space with Natural Language Processing Techniques.”
